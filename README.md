@@ -1,5 +1,5 @@
 # Software_Engineering_Portfolio
-Stephen Sivetts – Software Engineering Portfolio
+## Stephen Sivetts Jr. 
 
 ## Welcome!
 This portfolio highlights my strongest projects demonstrating C++ and Python development, numerical simulations, algorithmic problem-solving, and data visualization.
